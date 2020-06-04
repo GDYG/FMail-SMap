@@ -28,5 +28,10 @@ Button {
 header {
     background-color: #fff;
 }
+#container {
+    width: 100%;
+    height: 300px;
+}
+
 
 
